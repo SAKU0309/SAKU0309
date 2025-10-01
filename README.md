@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Sakshi 
+
+🚀 Passionate Software Developer | 💻 MERN Stack | 🌱 Learning System Design  
+
+## 🔥 About Me
+- 🎓 Recent Computer Science graduate  
+- 💡 Interested in Web Development, AI/ML, and Systems Programming  
+- 🌍 Building projects like E-Learning Platforms, Chat Apps, and Resume Builders  
+
+## 🛠 Tech Stack
+- **Languages:** C, Java, Python, JavaScript  
+- **Frontend:** React.js, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express.js, Django  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, Unity  
+
+## 📌 Featured Projects
+- 📚 **E-Learning Platform** – Interactive platform with progress tracking & quizzes  
+- 💬 **Chat Application** – Real-time messaging using MERN stack  
+- 🤖 **Mindful Space** – AI-powered chatbot for student mental health support  
+
+## 📫 Connect with Me
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sakshi-339856291/))  
+- 📧 Email: sakshichy14@gmail.com  
 
 <!--
 **SAKU0309/SAKU0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
