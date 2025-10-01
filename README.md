@@ -20,7 +20,7 @@
 - 🤖 **Mindful Space** – AI-powered chatbot for student mental health support  
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sakshi-339856291/))  
+- [LinkedIn](https://www.linkedin.com/in/sakshi-339856291/) 
 - 📧 Email: sakshichy14@gmail.com  
 
 <!--
