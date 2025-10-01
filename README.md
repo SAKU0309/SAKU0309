@@ -9,7 +9,7 @@
 
 ## 🛠 Tech Stack
 - **Languages:** C, Java, Python, JavaScript  
-- **Frontend:** React.js, Next.js, TailwindCSS  
+- **Frontend:** React.js, TailwindCSS  
 - **Backend:** Node.js, Express.js, Django  
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, Unity  
