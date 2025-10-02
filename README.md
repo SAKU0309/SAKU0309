@@ -36,12 +36,15 @@
 </p>
   
 ## Most used language
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAKU0309&theme=radical&show_icons=true)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKu0309&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAKU0309&theme=radical&show_icons=true)     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKu0309&layout=compact)
 
 ## 📫 Connect with Me
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/sakshi-339856291/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40"/>](https://x.com/sakshi14saku)
 [<img src="https://github.com/user-attachments/assets/93d7b526-f32f-4527-921f-cad5e973bd9b" width="40"/>](https://www.instagram.com/____saku___/)
+[<img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/github-icon.png" width="40"/>](https://dev.to/sakshi_1e2f5f166470fbd9cd)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
