@@ -26,7 +26,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=80)
 
 ## Most used language
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAKU0309&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAKU0309&theme=radical&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKu0309&layout=compact)
 <!--
 **SAKU0309/SAKU0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
