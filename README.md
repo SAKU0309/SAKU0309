@@ -25,6 +25,8 @@
 - 📧 Email: sakshichy14@gmail.com  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=80)
 
+## Most used language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKU0309&size_weight=0.5&count_weight=0.5)
 <!--
 **SAKU0309/SAKU0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
