@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Hi%20there%20👋&fontSize=80&animation=twinkling&theme=onedark)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Hi%20there%20👋&fontSize=80&animation=twinkling&theme=cobalt)
 
 #  I'm Sakshi 
 🚀 Passionate Software Developer | 💻 MERN Stack | 🌱 Learning System Design  
