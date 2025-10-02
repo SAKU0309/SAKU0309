@@ -23,6 +23,7 @@
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sakshi-339856291/) 
 - 📧 Email: sakshichy14@gmail.com  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Hi%20there%20👋&fontSize=80)
 
 <!--
 **SAKU0309/SAKU0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
