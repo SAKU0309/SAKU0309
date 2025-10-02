@@ -5,7 +5,7 @@
   <a href="https://github.com/YourUsername" target="_blank">
     <img width="50" height="50" alt="GitHub" src="https://github.com/user-attachments/assets/e7e0642a-8035-4a2d-b8ac-479bbebd8c94" />
   </a>
-  <a href="https://linkedin.com/in/YourProfile" target="_blank">
+  <a href="https://www.linkedin.com/in/sakshi-339856291/" target="_blank">
     <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/4858f84c-c192-42f4-ab62-af9833b9c27f" />
   </a>
   <a href="https://twitter.com/YourHandle" target="_blank">
