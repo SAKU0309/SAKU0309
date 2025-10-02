@@ -36,8 +36,7 @@
 </p>
   
 ## GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAKU0309&theme=radical&show_icons=true)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKu0309&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAKU0309&theme=radical&show_icons=true)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKU0309&layout=donut)](https://github.com/SAKU0309/github-readme-stats)
 ## 📫 Connect with Me
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/sakshi-339856291/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40"/>](https://x.com/sakshi14saku)
