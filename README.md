@@ -1,7 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20there%20👋&fontSize=80)
 
 #  I'm Sakshi 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e7e0642a-8035-4a2d-b8ac-479bbebd8c94" />
+<p align="left">
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img width="50" height="50" alt="GitHub" src="https://github.com/user-attachments/assets/e7e0642a-8035-4a2d-b8ac-479bbebd8c94" />
+  </a>
+  <a href="https://linkedin.com/in/YourProfile" target="_blank">
+    <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/4858f84c-c192-42f4-ab62-af9833b9c27f" />
+  </a>
+  <a href="https://twitter.com/YourHandle" target="_blank">
+    <img width="50" height="50" alt="Twitter" src="https://github.com/user-attachments/assets/d1b37d82-d888-49e5-ab6c-4e98e0e763fc" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img width="50" height="50" alt="Email" src="https://github.com/user-attachments/assets/4f1acac5-e11d-4fe4-b2e7-b5e2ee7c583a" />
+  </a>
+  <a href="https://instagram.com/YourHandle" target="_blank">
+    <img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/648d9bd7-8d88-48e4-b886-6d87fa9e63bf" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img width="50" height="50" alt="Portfolio" src="https://github.com/user-attachments/assets/683cb5cd-aa8b-4fb5-acb7-a2d116f91610" />
+  </a>
+</p>
+
+
 
 🚀 Passionate Software Developer | 💻 MERN Stack | 🌱 Learning System Design  
 
