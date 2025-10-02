@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20there%20👋&fontSize=80)
 
 #  I'm Sakshi 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e7e0642a-8035-4a2d-b8ac-479bbebd8c94" />
+
 🚀 Passionate Software Developer | 💻 MERN Stack | 🌱 Learning System Design  
 
 ## 🔥 About Me
