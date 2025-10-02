@@ -2,9 +2,7 @@
 
 #  I'm Sakshi 
 🚀 Passionate Software Developer | 💻 MERN Stack | 🌱 Learning System Design  
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
 ## 🔥 About Me
 - 🎓 Recent Computer Science graduate  
 - 💡 Interested in Web Development, AI/ML, and Systems Programming  
