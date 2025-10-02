@@ -35,9 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="50"/>
 </p>
   
-## Most used language
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAKU0309&theme=radical&show_icons=true)     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKu0309&layout=compact)
+## GitHub Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAKU0309&theme=radical&show_icons=true)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKu0309&layout=compact)
 
 ## 📫 Connect with Me
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/sakshi-339856291/)
