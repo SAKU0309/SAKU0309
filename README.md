@@ -71,4 +71,5 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
+![Snake animation](https://github.com/SAKU0309/SAKU0309/blob/output/github-contribution-grid-snake.svg)
 
