@@ -65,7 +65,12 @@
   <a href="https://dev.to/sakshi_1e2f5f166470fbd9cd" target="_blank">
     <img src="https://github.com/user-attachments/assets/baf960a2-ad81-4c4d-a750-d8669c797f16" width="40"/>
   </a>
+  <a href="https://discord.com/users/1005551155306319872" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discord/discord-original.svg" width="40"/>
+  </a>
 </p>
+
+
 
 ---
 
