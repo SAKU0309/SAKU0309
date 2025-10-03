@@ -69,7 +69,7 @@
     <img src="https://github.com/user-attachments/assets/e3cd22fd-31f6-4e8d-8758-3c767523f55e" width="40"/>
   </a>
   <a href="https://www.threads.com/@____saku___">
-    <img scr="https://simpleicons.org/?modal=icon&q=threads" width="40"/>
+    <img src="https://github.com/user-attachments/assets/85181740-0687-4a02-bb6e-9bac2d5b676e" width="40"/>
   </a>
 </p>
 
