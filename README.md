@@ -68,6 +68,9 @@
   <a href="https://discord.com/users/1005551155306319872" target="_blank">
     <img src="https://github.com/user-attachments/assets/e3cd22fd-31f6-4e8d-8758-3c767523f55e" width="40"/>
   </a>
+  <a href="https://www.threads.com/@____saku___">
+    <img scr="https://simpleicons.org/?modal=icon&q=threads" width="40"/>
+  </a>
 </p>
 
 
