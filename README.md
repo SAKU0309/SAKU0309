@@ -17,28 +17,10 @@
 
 ---
 
-## 📊 Quick Stats
-| Metric | Value |
-|--------|-------|
-| 🎓 Projects Completed | 15+ |
-| 💻 Lines of Code | 50K+ |
-| 🤝 Collaborations | 10+ |
-| 📚 Blog Posts | 5+ |
-
----
-
-## 🌟 Currently Learning
-- 🚀 Next.js & Web3 Development
-- ☁️ Cloud Architecture (AWS/GCP)
-- 📱 React Native & Mobile Development
-- 🔐 Cybersecurity & System Design
-
----
-
 ## 📌 Featured Projects  
-- 📚 **E-Learning Platform** – Interactive platform with progress tracking & quizzes | [Live Demo](https://github.com/SAKU0309)
-- 💬 **Chat Application** – Real-time messaging using **MERN stack** | [Live Demo](https://github.com/SAKU0309)
-- 🤖 **Mindful Space** – AI-powered chatbot for **student mental health support** | [Live Demo](https://github.com/SAKU0309)
+- 📚 **E-Learning Platform** – Interactive platform with progress tracking & quizzes 
+- 💬 **Chat Application** – Real-time messaging using **MERN stack** 
+- 🤖 **Mindful Space** – AI-powered chatbot for **student mental health support**
 - 🎨 **Resume Builder** – Dynamic resume generator with templates
 
 ---
@@ -76,28 +58,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKU0309&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
-
----
-
-## 📊 Activity Graph
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SAKU0309&theme=react-dark&hide_border=true)](https://github.com/SAKU0309)
-
----
-
-## 🎯 2026 Goals
-- [x] Complete Advanced JavaScript Course
-- [ ] Contribute to 5+ Open Source Projects
-- [ ] Build 3 Production-Ready Full Stack Applications
-- [ ] Master System Design & DSA
-- [ ] Write 10+ Technical Blog Posts
-- [ ] Get 1000+ GitHub followers
-
----
-
-## 📝 Latest Blog Posts
-- 📌 [Getting Started with MERN Stack](https://dev.to/sakshi_1e2f5f166470fbd9cd)
-- 📌 [Web Development Best Practices](https://dev.to/sakshi_1e2f5f166470fbd9cd)
-- 📌 [AI/ML in Web Development](https://dev.to/sakshi_1e2f5f166470fbd9cd)
 
 ---
 
