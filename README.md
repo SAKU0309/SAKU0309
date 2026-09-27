@@ -2,10 +2,6 @@
 
 <h3 align="center">🚀 Passionate Software Developer | 💻 MERN Stack | 🌱 Exploring System Design</h3>
 
-<p align="center">
- 
-  <a href="https://github.com/SAKU0309?tab=followers"><img src="https://img.shields.io/github/followers/SAKU0309?style=social" alt="GitHub followers"/></a>
-</p>
 
 ---
 
