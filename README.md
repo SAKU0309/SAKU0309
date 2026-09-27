@@ -50,30 +50,6 @@
 ---
 
 
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-339856291/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  <a href="https://x.com/sakshi14saku" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/____saku___/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/93d7b526-f32f-4527-921f-cad5e973bd9b" width="40"/>
-  </a>
-  <a href="https://dev.to/sakshi_1e2f5f166470fbd9cd" target="_blank">
-    <img src="https://github.com/user-attachments/assets/baf960a2-ad81-4c4d-a750-d8669c797f16" width="40"/>
-  </a>
-  <a href="https://discord.com/users/1005551155306319872" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e3cd22fd-31f6-4e8d-8758-3c767523f55e" width="40"/>
-  </a>
-  <a href="https://www.threads.com/@____saku___">
-    <img src="https://github.com/user-attachments/assets/85181740-0687-4a02-bb6e-9bac2d5b676e" width="40"/>
-  </a>
-</p>
-
----
-
 ## 💼 Open for Opportunities
 🤝 I'm open to **collaborations, freelance projects, and full-time opportunities**. Feel free to reach out!
 
